@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#ffe9ec"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect x="60" y="60" width="1080" height="510" rx="32" fill="#fff" stroke="#e11d2e" stroke-width="4"/>
+  <text x="120" y="280" font-family="Inter,Arial" font-weight="900" font-size="96" fill="#111">Yaar<tspan fill="#e11d2e">Win</tspan></text>
+  <text x="120" y="360" font-family="Inter,Arial" font-size="36" fill="#444">Premium Skill-Based Gaming Platform</text>
+  <text x="120" y="420" font-family="Inter,Arial" font-size="28" fill="#888">Community · Innovation · Trust</text>
+</svg>
